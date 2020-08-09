@@ -1,0 +1,12 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'poppins',sans-serif;
+    color:white;
+    padding: 1rem;
+    background-color: indianred;
+}
+h3, h2{
+text-align: center;
+color: rgb(3, 3, 3);
+}
